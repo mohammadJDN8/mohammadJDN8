@@ -10,12 +10,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadJDN8&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false&order=2" height="140" alt="languages graph"  />
-</div>
-
-###
-
 <p align="left">I'm a passionate front-end developer with a focus on React and JavaScript<br><br>✨ Creative in Work <br>📚 I'm currently learning React.js With Real Project<br>🎲 I'm enthusiastic about leveraging the latest technologies to build seamless user experiences. <br>🎯 Goals: Always Development & getting Rich in Work</p>
 
 ###
